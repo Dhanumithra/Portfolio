@@ -1277,7 +1277,7 @@ section {
 /* --- 12. Featured Projects (3-Column Layout Matching Reference Picture) --- */
 .projects-grid-3col {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 28px;
 }
 

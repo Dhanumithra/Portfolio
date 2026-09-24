@@ -43,14 +43,6 @@
 - **Architecture:** Production ERP collaboration at Lakshmi Groups architecting MongoDB document models and REST services.
 - **Impact:** Designed reusable Figma UI systems reducing downstream rework by **25%** across active internal users.
 
-### 5. [Agile QA Regression Suite — Enterprise Web QA Automation](https://github.com/Dhanumithra)
-- **Architecture:** Multi-environment regression testing framework at Groomsy Ltd. covering 120+ functional test cases.
-- **Impact:** Delivered **0 regression escapes** across 8+ live production releases.
-
-### 6. [Vision AI Multimodal Inspector](https://github.com/Dhanumithra)
-- **Architecture:** Intelligent visual verification tool leveraging Gemini Vision API for automated defect classification.
-- **Impact:** Enabled instantaneous sub-second document and hardware integrity validation.
-
 ---
 
 ## 🎨 Portfolio Art Direction & Architecture
